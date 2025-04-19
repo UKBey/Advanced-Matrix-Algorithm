@@ -71,7 +71,7 @@ data.txt        → Input/output file for storing matrices
 
 ## 👤 Author
 
-**Ukbe Taha Şahinkaya**  s
+**Ukbe Taha Şahinkaya**
 
 ---
 
